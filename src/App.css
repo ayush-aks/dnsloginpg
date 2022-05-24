@@ -37,3 +37,8 @@ button {
 p {
   color: red;
 }
+
+#ui-success-message {
+  color: #fff;
+  padding: 2%;
+}
